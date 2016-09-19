@@ -1,0 +1,30 @@
+{
+  "name": "ws-now",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A simple echo websocket hosted on `now`.",
+  "license": "MIT",
+  "repository": "hemanth/ws-now",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-ws": "^2.0.0"
+  },
+  "devDependencies": {}
+}
