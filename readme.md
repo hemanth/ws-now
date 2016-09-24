@@ -1,6 +1,6 @@
 # [ws-now](https://ws.now.sh)
 
-> A simple echo websocket hoster on now.
+> A simple echo websocket hosted on `now`.
 
 ## EndPoint
 
